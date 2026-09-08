@@ -11,7 +11,7 @@ HTTP stands for HyperText Transfer Protocol.
 - Uses port 80
 - No TLS encryption
 - Less secure
-- URL starts with `http://github.com://github.com`
+- URL starts with `http://github.com`
 
 ## HTTPS 🔐
 
@@ -20,7 +20,7 @@ HTTPS stands for HyperText Transfer Protocol Secure.
 - Uses port 443
 - Uses TLS encryption
 - More secure
-- URL starts with `https://github.com//github.com`
+- URL starts with `https://github.com`
 
 ## HTTP🔓 vs HTTPS 🔐
 
