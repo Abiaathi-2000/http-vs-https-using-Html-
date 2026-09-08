@@ -1,28 +1,28 @@
-# HTTP vs HTTPS
+# 🎲 HTTP vs HTTPS
 
-## Introduction
+## 🚀 Introduction
 
 This project explains the difference between HTTP and HTTPS.
 
-## HTTP
+## HTTP 🔓
 
 HTTP stands for HyperText Transfer Protocol.
 
 - Uses port 80
 - No TLS encryption
 - Less secure
-- URL starts with `http://`
+- URL starts with `http://github.com://github.com`
 
-## HTTPS
+## HTTPS 🔐
 
 HTTPS stands for HyperText Transfer Protocol Secure.
 
 - Uses port 443
 - Uses TLS encryption
 - More secure
-- URL starts with `https://`
+- URL starts with `https://github.com//github.com`
 
-## HTTP vs HTTPS
+## HTTP🔓 vs HTTPS 🔐
 
 | Feature | HTTP | HTTPS |
 |---|---|---|
@@ -31,7 +31,7 @@ HTTPS stands for HyperText Transfer Protocol Secure.
 | Port | 80 | 443 |
 | Protocol | HTTP | HTTP + TLS |
 
-## Technologies Used
+## 🚩 Technologies Used 
 
 - HTML
 - Markdown
