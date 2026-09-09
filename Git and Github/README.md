@@ -4,7 +4,7 @@
 
 This project explains the difference between HTTP and HTTPS.
 
-## HTTP 🔓
+## HTTP 🔒
 
 HTTP stands for HyperText Transfer Protocol.
 
@@ -21,7 +21,6 @@ HTTPS stands for HyperText Transfer Protocol Secure.
 - Uses TLS encryption
 - More secure
 - URL starts with `https://github.com`
-
 ## HTTP🔓 vs HTTPS 🔐
 
 | Feature | HTTP | HTTPS |
